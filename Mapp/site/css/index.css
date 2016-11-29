@@ -1,0 +1,44 @@
+body{
+    height:130vh;
+    width:100%;
+    background-color: #65BDDE;
+}
+
+.rick{ 
+    height:100%;
+    width:70%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+header{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+nav {
+    background-color: #179BCD;
+    border: #0588BA solid;
+    margin: 10px;
+    margin-right: 20px;
+    width: 2000px;
+}
+
+.start {
+
+}
+
+.photo {
+    width: 50px;
+    height: 50px;
+}
+
