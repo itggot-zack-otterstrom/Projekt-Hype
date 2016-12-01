@@ -2,19 +2,34 @@ body{
   background-color: #034385;
   height:100vh;
   width:100%;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
+.wrapper{
+  width:80%;
+  height:100%;
+}
 nav{
-  background-color: #0977EA;
-  height: 100px;
-  width:100px;
+  background-color: #543;
+  height: 80%;
+  width: 80%;
+  margin:50px 0px 50px 0px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .rick{
   display: flex;
   flex-direction: column;
+  background-color: #0977EA;
+  height: 90px;
+  width: 90px;
 }
 
 .vad{
@@ -22,4 +37,13 @@ nav{
 
 .header{
   width:100%;
+  box-shadow: 0px 5px 5px #000;
+}
+
+.astley{
+  background-color: #0977EA;
+  display: flex;
+  flex-direction: column
+  width: 100px;
+  height: 100px; 
 }
