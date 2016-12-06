@@ -26,29 +26,29 @@ nav{
 
 .rick{
   display: flex;
-  flex-direction: column;
-  background-color: #097;
+  flex-direction: row;
+  background-color: white;
   height: 75%;
   width: 100%;
+  margin-right: 10px;
+  justify-content: center;
+  align-items: center;
 }
 
 .vad{
   display: flex;
-  height: 50%;
-  width: 70%;
-  background-color: peachpuff;
-  justify-content: center;
+  height: 75%;
+  width: 50%;
   margin: 4px;
-
 }
 
-.då{
+.hej{
   display: flex;
-  height: 50%;
+  height: 75%;
   width: 70%;
-  background-color: orange; 
-  justify-content: center;
+  background-color:;white; 
   margin: 4px; 
+  padding: 0px;
 
 }
 
