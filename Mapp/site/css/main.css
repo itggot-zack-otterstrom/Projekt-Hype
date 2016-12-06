@@ -27,12 +27,29 @@ nav{
 .rick{
   display: flex;
   flex-direction: column;
-  background-color: #0977EA;
-  height: 90px;
-  width: 90px;
+  background-color: #097;
+  height: 75%;
+  width: 100%;
 }
 
 .vad{
+  display: flex;
+  height: 50%;
+  width: 70%;
+  background-color: peachpuff;
+  justify-content: center;
+  margin: 4px;
+
+}
+
+.då{
+  display: flex;
+  height: 50%;
+  width: 70%;
+  background-color: orange; 
+  justify-content: center;
+  margin: 4px; 
+
 }
 
 .header{
@@ -43,7 +60,7 @@ nav{
 .astley{
   background-color: #0977EA;
   display: flex;
-  flex-direction: column
-  width: 100px;
-  height: 100px; 
+  flex-direction: column;
+  width: 25%;
+  height: 75%; 
 }
