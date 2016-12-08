@@ -33,6 +33,7 @@ nav{
   justify-content: center;
   align-items: center;
   box-shadow: 0px 5px 5px #000; 
+  border-radius: 15px;
 }
 
 .vad{
@@ -40,6 +41,7 @@ nav{
   height: 75%;
   width: 50%;
   margin: 4px;
+  border-radius: 15px;
 }
 
 .hej{
@@ -67,5 +69,6 @@ nav{
   background-image: url(../img/Rick_Astley.jpg); 
   background-size: 100%;
   background-repeat: no-repeat;
+  border-radius: 15px;
 }
 
